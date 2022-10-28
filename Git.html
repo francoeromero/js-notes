@@ -1,0 +1,68 @@
+<!--
+
+Git comandos basicos:
+
+    -git init (crear un proyecto nuevo)
+    -git add <file> (pasar tu proyecto al starting area, osea actualizar o establecer tu codigo en git)
+    -git status (la ubicacion del archivo, si esta en working directory, o al starting area o al repositorio)
+    -git commit (es pasarlo de starting area al repositorio, es para guardar los cambios)
+    -git push (es para subirlo a un repositorio remoto)
+    -git pull (cuando estas trabajando en grupo te traen los cambios que hicieron tus colegas)
+    -git clone (hace una copia desde el servidor central a tu computadora para que puedas trabajar)
+    primera etapa es trabajar con el codigo "Working directory"
+    segunda etapa es guardar el cambio al "starting area" osea actualizar el codigo - git add
+    tercera etapa es guardarlo en un reporsitorio "repository" - git commit 
+
+    Practica: 
+
+    1- Creamos una carpeta en escritorio y agregamos algun archivo
+    2- click derecho Git bash
+    3- comando: pwd  (Nos muestra la ubicacion en donde estas, donde hiciste click si lo hiciste en el escritorio te mostrara la ruta de ubicacion de ahi)
+    4- comando: cd (el cd es entrar ejemplo "cd Desktop" escritorio fijate que sea la misma ubicacion del disco principal)
+    5- comando: cd (nombre de la carpeta donde esta ubicado el archivo cd /carpeta)
+    6- comando: ls (para saber que archivos se encuentra en la carpeta)
+    7- comando: git init (para comenzar con git, y se crea una carpeta oculta git)
+    8- comando: git status (para ver el estado de nuestro archivo, rojo: falta en el R  verde: ya esta en el R )
+    9- comando: git add (agregamos el nombre del nuevo archivo ejemplo: git add index.html)
+    10-  volvemos a escribir comando: git status (y como vemos se agrego el archivo)
+    11- comando: git commit  (crear nuestro primer punto de control, hay que identificarse)
+    12- comando: git config --global user.email "ejemplo@gmail.com" (nuestro mail)
+    13- comando: git config --global user.name "usuariodegit" (nombre de usuario)
+    14- comando: git status (nos fijamos que cambio)
+    15- comando: git commit -m "mi primer commit" (arriba de todos escribimos un comentario "mi primer git" luego tecla escape y escribimo "":qw" o wq )
+    16- comando: git log (para ver los commit que he creado, y se puede ver tu usuario que lo creo la fecha y hora)
+    17- comando: git status (para ver el estado y te dira nada por agregar)
+    18- Si ahora modificamos algo en el archivo o la carpeta, codeamos y volvemos a escribir comando: git status (se va a ver que si hay que agregar) 
+    19- comando: git checkout -- nombredearchivo (para revertir los cambios como estaba antes)
+    20- comando: git 
+
+RESUMEN:
+
+Crear Repositorio desde Github:
+
+1) pwd (para saber donde estas parado)
+2) ls (verificar los archivos que se encuentran en dicha carpeta)
+3) git init (iniciando repositorio, se crea carpeta oculta git)
+4) git status (ver el estado, que cosas no se subieron y si se subieron)
+5) git add archivo (agregar al git los nombres de los archivos)
+6) git status (verificar que esten subidos)
+7) git commit -m "estoy subiendo archivos" (guardar los cambios hechos con un titulo "ya lo subi")
+8) git branch -M main
+9) git remote add origin git@github.com (creando el repositorio segun el link creado desde Github)
+10) git push -u origin main (Por ultimo se sube al repositorio)
+
+guardar cambios:
+
+1) git status 
+2) git add nombredearchivo 
+3) git commit -m "actualizo los cambios"
+4) git push 
+
+Clonar repositorio
+
+1) Desde github abrir el repositorio ir al boton verde y copiar el link
+2) cd Carpeta (Entrar en la carpeta donde queres que se clone, por ejemplo cd /d/Escritorio)
+3) git clone link (pegar el link que copiaste del github) 
+
+
+-->
