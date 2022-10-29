@@ -59,6 +59,9 @@ Una variable es un espacio que guardamos en memoria. Osea un ejemplo simple es l
 
 recipiente = "papel"
 
+contenedor = "contenido"
+
+
 _____________________________________________________________________________________________
 
 3) Formas de Enlazar Javascript 
