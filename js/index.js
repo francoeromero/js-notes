@@ -22,11 +22,15 @@ var edad = 29;
 console.log("mi edad es " + edad); // aparece en f12 console
 document.write("mi edad es " + edad); //aparece en la pantalla
 
-//se puede tambien asiganr calculos
+//se puede tambien asiganr calculos / * - + 
 let resultado = 2 + 2 ;
 console.log(resultado);
 
+// para que hacer esto? las variables pueden cambiar el resultado y para no repetir lo mismo se crea una variable que tengan en comun un dato  
 
-
+let uno = 1;
+let dos = 2;
+let igual = uno + dos;
+console.log(igual);
 
 
