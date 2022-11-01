@@ -91,4 +91,11 @@ function saludar(nombre, edad){
 }
 saludar("fran", 29);
 
+function multiplicar(num1, num2){
+    let resultado = num1 * num2;
+    return resultado;
+}
+let recibidor = multiplicar(2, 3);
+console.log(recibidor);
+
 
