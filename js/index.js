@@ -83,12 +83,12 @@ for(let i = 0; i < 10; i++) {
 //FUNCIONES
 /*es una maquinita que les puedo pasar ingredientes o argumentos, declaraciones para que calcule*/
 
-let nombre = "fran"
+
 
 function saludar(nombre, edad){
     console.log("hola chicos mi nombre es " + nombre);
     console.log("y mi edad es " + edad);
 }
-saludar(nombre);
+saludar("fran", 29);
 
 
