@@ -55,7 +55,7 @@ if (numeropin == 9){
     console.log("no");
 }
 
-//bucles
+//bucles (bucles)
 // while es una asignacion para darle un bucle que repita, ejemplo: contar desde 0 hasta el 4.
 
 let contador = 0;
