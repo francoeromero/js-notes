@@ -1,4 +1,4 @@
-console.log("hola franz");
+/*console.log("hola franz");
 
 var numero = 5;
 console.log(numero);
@@ -17,7 +17,7 @@ camelcase FranEsProgramador
 */
 
 //mi edad
-
+/*
 var edad = 29;
 console.log("mi edad es " + edad); // aparece en f12 console
 document.write("mi edad es " + edad); //aparece en la pantalla
@@ -79,5 +79,13 @@ for(let cont = 10; cont > 0; cont = cont - 1){
 for(let i = 0; i < 10; i++) {
     console.log(i);
 }
+*/
+//FUNCIONES
+/*es una maquinita que les puedo pasar ingredientes o argumentos, declaraciones para que calcule*/
+
+function saludar(nombre){
+    console.log("hola chicos");
+}
+saludar();
 
 
