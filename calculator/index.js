@@ -5,6 +5,7 @@ const btncalcular = document.getElementById("calcular");
 const presultado = document.getElementById("resultado");
 console.log(txtop1);
 
+btncalcular.addEventListener('click', calcular)
 function calcular(){
     console.log("apretaste calcular");
 }
