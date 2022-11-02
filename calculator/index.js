@@ -10,8 +10,8 @@ function calcular(){
     const operador = txtoperador.value /*console.log(txtoperador.value);*/
     if(operador == "+" || operador == "-" || operador == "*" || operador == "/")
     {
-        console.log("calculo posible")
+       presultado.innerText = "Calculo posible" /*console.log("calculo posible")*/
     } else {
-        console.log("calculo imposible")
+       presultado.innerText = "Calculo imposible " /*console.log("calculo imposible")*/
     }
 }
