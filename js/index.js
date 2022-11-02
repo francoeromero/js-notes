@@ -136,3 +136,4 @@ console.log(persona2);
 */
 let arregloDeObjetos = [persona, persona2];
 console.log(arregloDeObjetos);
+
