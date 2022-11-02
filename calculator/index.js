@@ -7,5 +7,11 @@ console.log(txtop1);
 
 btncalcular.addEventListener('click', calcular)
 function calcular(){
-    console.log("apretaste calcular");
+    const operador = txtoperador.value /*console.log(txtoperador.value);*/
+    if(operador == "+" || operador == "-" || operador == "*" || operador == "/")
+    {
+        console.log("calculo posible")
+    } else {
+        console.log("calculo imposible")
+    }
 }
