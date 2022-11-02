@@ -83,7 +83,7 @@ for(let i = 0; i < 10; i++) {
 //FUNCIONES
 /*es una maquinita que les puedo pasar ingredientes o argumentos, declaraciones para que calcule*/
 
-
+/*
 
 function saludar(nombre, edad){
     console.log("hola chicos mi nombre es " + nombre);
@@ -97,5 +97,42 @@ function multiplicar(num1, num2){
 }
 let recibidor = multiplicar(2, 3);
 console.log(recibidor);
+*/
+/* console.log(mulplicar(2, 3)); */
 
+// ARREGLOS ARRAYS
+/*
+let miArreglo = ["David", "Fran", "Kevin", "Carla"];
 
+for (let i = 0; i < 4; i++) {
+    console.log("accediendo al indice " + i);
+    let mostrar = miArreglo[i];
+    console.log(mostrar);
+}
+*/
+/*
+
+let mostrar = miArreglo[2];
+console.log(mostrar);
+
+  //  for (let i = 0; i < 4; i++){}
+*/
+
+//OBJETOS 
+let persona = {
+    nombre : "fran",
+    edad : 29,
+    masculino : true,
+}
+
+let persona2 = {
+    nombre : "julieta",
+    edad : 18,
+    masculino : false,
+};
+/*
+console.log(persona);
+console.log(persona2);
+*/
+let arregloDeObjetos = [persona, persona2];
+console.log(arregloDeObjetos);
