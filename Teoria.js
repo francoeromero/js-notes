@@ -1,7 +1,7 @@
 /*
 0) Introduccion - Que es Javascript?
 
--Lenguaje de programacion
+-Lenguaje de programacion:
 
 (Es una herramienta que nos permite darle instrucciones a un ordenado a traves de codigos, codigo que esta estructurado para que nosotros podamos escribirlo siguiendo una logica, para que pueda cumplir una funcion que nosotros queremos)
 
