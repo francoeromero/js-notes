@@ -5,7 +5,7 @@
 
 (Es una herramienta que nos permite darle instrucciones a un ordenado a traves de codigos, codigo que esta estructurado para que nosotros podamos escribirlo siguiendo una logica, para que pueda cumplir una funcion que nosotros queremos)
 
--Interpretado 
+-Interpretado sda
 
 (Javascript es un lenguaje interpretadol, que quiere decir que todo el codigo que escribimos no tiene que ser pasado por un compilador sino que va directamente ejecutarse en el navegador, que tiene una herrramienta llamada interprete que lo hace esa herramienta lo ejecuta en tiempo real )
 
