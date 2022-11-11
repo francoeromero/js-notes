@@ -141,7 +141,8 @@ ________________________________________________________________________________
 5) Operadores en Javascript
 
     -Operadores de Asignacion
-            Asigna un valor al operando de la izquierda basado en el valor de la derecha 
+            Asigna un valor al operando de la izquierda basado en el valor de la derecha, osea valor = valor lo estamos asignando. numero = 10; 
+             
                     Asignacion x = y 
                             adicion --------------------------------x += y           
                             sustraccion-----------------------------x -= y
