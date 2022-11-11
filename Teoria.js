@@ -305,13 +305,29 @@ document.write(numero4 === numero5) // Identidad: Pregunto si son ESTRICTAMENTE 
 
 
 
-
-
-
         - operadores logicos
         - operadores de comparacion 
 
 
+&& 
+document.write(false && true) // me da false
+document.write(true && false) //me da false
+document.write(true && true) //me da true
+document.write(false && false)//me da false 
+
+apenas una es falsa todo es falso
+
+|| 
+document.write(false || true) // me da true
+document.write(true || false) //me da true
+document.write(true || true) //me da true
+document.write(false || false)//me da false 
+
+apenas una es verdadera todo es verdadero
+
+! 
+cambiar un valor true a false o viceversa con !
+ejemplo: document.write(!afirmacion)
 */
 
 
