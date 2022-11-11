@@ -328,6 +328,27 @@ apenas una es verdadera todo es verdadero
 ! 
 cambiar un valor true a false o viceversa con !
 ejemplo: document.write(!afirmacion)
+
+ejemplo ejercicio:
+
+// num1 = 12;
+// num2 = 24;
+// num3 = 25;
+// num4 = 92;
+// num5 = 91;
+
+// op = (num1 < num2 || num2 < num3) && (!(num1 != num2)  && num5 != num3);
+// op = (true || true) && (false && true);
+// op = (true) && (false);
+// op = false;
+// document.write(op)
+____________________________________________________________________
+9)CamelCase
+10) Condicionales
+
+
+
+
 */
 
 
