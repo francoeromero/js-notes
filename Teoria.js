@@ -142,7 +142,7 @@ ________________________________________________________________________________
 
     -Operadores de Asignacion
             Asigna un valor al operando de la izquierda basado en el valor de la derecha, osea valor = valor lo estamos asignando. numero = 10; 
-             
+
                     Asignacion x = y 
                             adicion --------------------------------x += y           
                             sustraccion-----------------------------x -= y
@@ -226,7 +226,6 @@ ________________________________________________________________________________
     -Definicion y ejemplo       
     (Basicamente la concatenacion es unir cadenas o strings )
 
-    
     -Con el signo + 
 
 

@@ -1,3 +1,3 @@
-let numero = 10; /*declarar */
-numero += 5; /*adicion */
-document.write(numero);
+let numero = 23;
+let numero2 = 13;
+document.write(numero==numero2);
