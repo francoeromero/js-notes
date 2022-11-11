@@ -30,3 +30,34 @@
 // op = (true) && (false);
 // op = false;
 // document.write(op)
+
+
+
+// if (10 < 15) {
+//     alert("hola")
+// } //si es true se ejecuta sino no se ejecuta
+
+// nombre = "pedro"
+
+// if(nombre == "lucas") {
+//     alert("entonces sos lucas")
+// } 
+
+// else if (nombre == "fran"){
+//     alert("entonces sos fran")
+// }
+
+// else if (nombre == "juancito"){
+//     alert("entonces sos juancito")
+// }
+
+// else if (nombre == "fulanito"){
+//     alert("entonces sos fulanito")
+// }
+
+// else {
+//     alert("tu nombre es otro")
+// }
+
+//CONCLUSION IF ES UNO SOLO, ELSE IF SON INFINITOS Y ELSE UNO, SINO SE CUMPLE NADA
+

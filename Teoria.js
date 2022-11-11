@@ -342,10 +342,56 @@ ejemplo ejercicio:
 // op = (true) && (false);
 // op = false;
 // document.write(op)
+
+RESUMEN:
+
+V && F = F
+F && V = F
+
+V || F = V
+F || V = V
+
 ____________________________________________________________________
 9)CamelCase
 10) Condicionales
 
+{} esto representa un bloque, todo lo que esta dentro es un BLOQUE
+
+{
+        alert("hola");
+        document.write("pedro");
+}
+
+if(true) {
+        alert("hola")
+}
+
+EJEMPLO CONDICIONAL 
+
+
+// nombre = "pedro"
+
+// if(nombre == "lucas") {
+//     alert("entonces sos lucas")
+// } 
+
+// else if (nombre == "fran"){
+//     alert("entonces sos fran")
+// }
+
+// else if (nombre == "juancito"){
+//     alert("entonces sos juancito")
+// }
+
+// else if (nombre == "fulanito"){
+//     alert("entonces sos fulanito")
+// }
+
+// else {
+//     alert("tu nombre es otro")
+// }
+
+//CONCLUSION IF ES UNO SOLO, ELSE IF SON INFINITOS Y ELSE UNO, SINO SE CUMPLE NADA
 
 
 
