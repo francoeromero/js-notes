@@ -7,3 +7,4 @@
                 // <li><a href=""><span></span></a></li>
                 // <li><a href=""><span></span></a></li>
                 // <li><a href=""><span></span></a></li>
+//JS : para seleccionar todas las palabras iguales de un codigo Ctrl + Shift + L para modificarlas a todas juntas
