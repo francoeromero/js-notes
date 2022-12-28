@@ -8,3 +8,7 @@
                 // <li><a href=""><span></span></a></li>
                 // <li><a href=""><span></span></a></li>
 //JS : para seleccionar todas las palabras iguales de un codigo Ctrl + Shift + L para modificarlas a todas juntas
+
+//COPIAR VARIAS LINEAS IGUALES RAPIDO: seleccionas una palabra + le das a ALT + SHIFT + flecha para abajo
+
+
