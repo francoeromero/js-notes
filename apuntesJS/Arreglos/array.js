@@ -26,3 +26,23 @@ let arreglo2 = ["valor1","valor2","valor3"];
              //    0        1       2   
 
 document.write(arreglo2[0]); // muestra valor1 en consola
+
+// ___________________________
+// EJEMPLO 
+// ___________________________
+
+let pc1 = {
+    nombre: "PC",
+    procesador: "Intel Core i7",
+    ram: "16GB",
+    espacio: "1TB"
+}
+
+let nombre = pc1["nombre"];
+let procesador = pc1["procesador"];
+let ram = pc1["ram"];
+let espacio = pc1[!"espacio"];
+
+let frase = `el nombre de mi PC es : ${nombre}<br>
+            el procesador es: ${procesador}<br>
+            la memoria es de: ${ram}`;

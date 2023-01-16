@@ -11,4 +11,4 @@
 
 //COPIAR VARIAS LINEAS IGUALES RAPIDO: seleccionas una palabra + le das a ALT + SHIFT + flecha para abajo
 
-
+//ENVOLVER ENTREPARENTESIS A TEXTO SELECCIONADO-  seleccionar texto + ALT + 40 
